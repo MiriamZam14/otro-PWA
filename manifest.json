@@ -19,6 +19,11 @@
     {"src":"./img/Bomb.png",
       "type":"image/png",
       "sizes":"96x96"
+    }.
+    {
+    "src":"./img/calv.png",
+    "type":"image/png",
+    "sizes":"144x144"
     }
         ]
 }
