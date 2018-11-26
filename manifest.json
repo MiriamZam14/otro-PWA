@@ -6,7 +6,19 @@
   "theme_color": "#566573",
   "orientation": "portrait-primary",
   "display": "standalone",
-  "start_url": "./?utm_source=web_app_manifest",
+  "start_url": "./index.html",
+  "dir":"ltr",
   "scope": "./",
-  "lang": "es-MX"
+  "lang": "es-MX",
+  "icons":[
+    {
+      "src":"./img/Astronaut.png",
+      "type":"image/png",
+      "sizes":"48x48"
+    },
+    {"src":"./img/Bomb.png",
+      "type":"image/png",
+      "sizes":"96x96"
+    }
+        ]
 }
