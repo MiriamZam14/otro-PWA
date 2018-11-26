@@ -11,15 +11,13 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/grayscale",
+    "homepage": "https://miriamzam14.github.io/otro-PWA/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://miriamzam14.github.io/otro-PWA/"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Chiquipelucas",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Miriam zamora (https://github.com/MiriamZam14)"
     ],
     "repository": {
         "type": "git",
